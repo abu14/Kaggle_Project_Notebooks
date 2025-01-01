@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abenezer Tesfaye
 - 👀 I’m interested in Data Science & Machine Learning
-- 💞️ I’m looking to collaborate on AIProjects
+- 💞️ I’m looking to collaborate on ML/AI Projects
 - 📫 How to reach me [https://www.linkedin.com/in/abenezer-tesfaye-191579214/]
 
 <!---
